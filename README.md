@@ -1,1 +1,1 @@
-# mikolov_was_high
+# word2vec (reimplemented)
